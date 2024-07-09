@@ -1,2 +1,2 @@
-# index.html
+# index
 index page of html
